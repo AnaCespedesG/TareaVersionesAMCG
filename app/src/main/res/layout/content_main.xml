@@ -27,4 +27,12 @@
         tools:layout_editor_absoluteX="131dp"
         tools:layout_editor_absoluteY="294dp" />
 
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SALUDO"
+        tools:layout_editor_absoluteX="129dp"
+        tools:layout_editor_absoluteY="365dp" />
+
 </android.support.constraint.ConstraintLayout>
